@@ -1,0 +1,242 @@
+{
+  "\u0000vite/modulepreload-polyfill.js": [],
+  "\u0000vite/preload-helper.js": [],
+  "content/build.json": [],
+  "content/mentee.json": [],
+  "content/mentor.json": [],
+  "index.html": [],
+  "node_modules/@tiptap/core/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/core/dist/jsx-runtime/jsx-runtime.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-blockquote/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-bold/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-code-block/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-code/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-document/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-hard-break/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-heading/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-highlight/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-horizontal-rule/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-italic/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-link/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-list/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-paragraph/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-strike/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-text/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extension-underline/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/extensions/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/starter-kit/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@tiptap/vue-3/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/@unhead/vue/dist/client.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.Cd6dkybA.mjs": [],
+  "node_modules/@unhead/vue/dist/shared/vue.N9zWjxoK.mjs": [],
+  "node_modules/@vue/reactivity/dist/reactivity.esm-bundler.js": [],
+  "node_modules/@vue/runtime-core/dist/runtime-core.esm-bundler.js": [],
+  "node_modules/@vue/runtime-dom/dist/runtime-dom.esm-bundler.js": [],
+  "node_modules/@vue/shared/dist/shared.esm-bundler.js": [],
+  "node_modules/hookable/dist/index.mjs": [],
+  "node_modules/linkifyjs/dist/linkify.mjs": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/orderedmap/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-commands/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-dropcursor/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-gapcursor/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-history/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-keymap/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-model/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-schema-list/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-state/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-transform/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/prosemirror-view/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/rope-sequence/dist/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "node_modules/unhead/dist/client.mjs": [],
+  "node_modules/unhead/dist/shared/unhead.AvDFlk_u.mjs": [],
+  "node_modules/unhead/dist/shared/unhead.BrXkGDAU.mjs": [],
+  "node_modules/unhead/dist/shared/unhead.ChXiQvI8.mjs": [],
+  "node_modules/unhead/dist/shared/unhead.J7R8psSN.mjs": [],
+  "node_modules/vite-ssg/dist/index.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.C6pK7rvr.mjs": [],
+  "node_modules/vite-ssg/dist/shared/vite-ssg.ETIvV-80.mjs": [],
+  "node_modules/vue-router/dist/devtools-EWN81iOl.mjs": [],
+  "node_modules/vue-router/dist/vue-router.mjs": [],
+  "node_modules/w3c-keyname/index.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/App.vue": [],
+  "src/admin/AdminView.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/BlockForm.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/PageEditor.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/PageList.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/RichText.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/VersionBar.vue": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/admin/useAdmin.js": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/assets/admin.css": [
+    "/tutoring-guide/assets/AdminView-XRJDFVC7.js",
+    "/tutoring-guide/assets/AdminView-BC1-z_Z6.css"
+  ],
+  "src/assets/style.css": [],
+  "src/assets/tailwind.css": [],
+  "src/components/AppHeader.vue": [],
+  "src/components/BlockRenderer.vue": [
+    "/tutoring-guide/assets/BlockRenderer-C8WqDxMz.js"
+  ],
+  "src/components/GuideImage.vue": [
+    "/tutoring-guide/assets/BlockRenderer-C8WqDxMz.js"
+  ],
+  "src/components/PagerNav.vue": [
+    "/tutoring-guide/assets/PageView-Doa2QcUq.js"
+  ],
+  "src/components/SearchBox.vue": [],
+  "src/components/TocSidebar.vue": [],
+  "src/content.js": [],
+  "src/lib/config.js": [
+    "/tutoring-guide/assets/db-Br8Ut2kh.js"
+  ],
+  "src/lib/db.js": [
+    "/tutoring-guide/assets/db-Br8Ut2kh.js"
+  ],
+  "src/lib/keys.js": [
+    "/tutoring-guide/assets/db-Br8Ut2kh.js"
+  ],
+  "src/lib/plain.js": [],
+  "src/lib/tablespan.js": [
+    "/tutoring-guide/assets/BlockRenderer-C8WqDxMz.js"
+  ],
+  "src/live.js": [
+    "/tutoring-guide/assets/live-DJGbZOU8.js"
+  ],
+  "src/main.js": [],
+  "src/router.js": [],
+  "src/search.js": [],
+  "src/views/BookView.vue": [
+    "/tutoring-guide/assets/BookView-Dqwdo_xQ.js"
+  ],
+  "src/views/HomeView.vue": [
+    "/tutoring-guide/assets/HomeView-D0I4fsV4.js"
+  ],
+  "src/views/PageView.vue": [
+    "/tutoring-guide/assets/PageView-Doa2QcUq.js"
+  ]
+}

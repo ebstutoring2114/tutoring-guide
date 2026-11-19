@@ -1,0 +1,37 @@
+name: Deploy Pages (Actions)
+
+# 이 저장소는 빌드 결과물만 담긴다 (소스는 tutoring-guide-src).
+# 원래는 Pages 의 '브랜치에서 배포'를 썼는데, 그 대기열이 몇 시간씩 멈추는 일이
+# 생겨서 Actions 직접 배포로 바꿨다. main 에 push 될 때마다 그대로 올린다.
+#
+# 사용 조건: Settings > Pages > Source 가 'GitHub Actions' 여야 한다.
+# ('Deploy from a branch' 상태에서는 deploy-pages 단계가 실패한다)
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: .
+      - id: deployment
+        uses: actions/deploy-pages@v4
